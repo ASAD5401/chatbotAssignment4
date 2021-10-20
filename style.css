@@ -1,0 +1,9 @@
+.sub{
+    border: 2px black solid;
+    margin: 10px 5px;
+    padding:15px;
+}
+.main{
+    display:flex;
+    justify-content: left;
+}
